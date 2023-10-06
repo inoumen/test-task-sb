@@ -8,7 +8,7 @@ This a test-task sample that I made having a time limit of 8 hours. There is a w
 - Checkout the project by running this script in a terminal:
 
 ```
-git clone [https://github.com/inoumen/test-task-sb.git](https://github.com/inoumen/test-task-sb.git)
+git clone https://github.com/inoumen/test-task-sb.git
 ```
 
 - In a terminal navigate to the project folder and run the next script:
