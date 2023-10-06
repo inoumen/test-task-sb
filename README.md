@@ -19,6 +19,8 @@ npm i
 
 This way the project is ready to start. 
 
+After this, please create .env.local file and add there a variable VITE_APP_API_ADDR that should be equal to the API URL. 
+
 ```
 npm run dev
 ```
